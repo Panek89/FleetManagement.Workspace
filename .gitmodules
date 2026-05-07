@@ -1,0 +1,9 @@
+[submodule "FleetManagement.Equipment"]
+	path = FleetManagement.Equipment
+	url = https://github.com/Panek89/FleetManagement.Equipment.git
+[submodule "FleetManagement.Frontend"]
+	path = FleetManagement.Frontend
+	url = https://github.com/Panek89/FleetManagement.Frontend.git
+[submodule "FleetManagement.Infrastructure"]
+	path = FleetManagement.Infrastructure
+	url = https://github.com/Panek89/FleetManagement.Infrastructure.git
